@@ -11,9 +11,9 @@
 
 | Member | Board Role | What They Worked On |
 |--------|------------|---------------------|
-| KENT JESSER NERI-MASTER | CODE |
-| CYDEE ENAD- SLAVE1 | DOCUMENTATION|
-| RABBAH ALAWI SLAVE2| WIRINGS |
+| KENT JESSER NERI | MASTER | CODE |
+| CYDEE ENAD | SLAVE1 | DOCUMENTATION |
+| RABBAH ALAWI | SLAVE2 | WIRINGS |
 
 ## Objective
 
