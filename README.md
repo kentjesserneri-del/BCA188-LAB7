@@ -68,7 +68,7 @@ Characteristic UUID: f0e65ff0-90b3-416b-ac35-be87a7805453
 
 The button uses `INPUT_PULLUP`, so no external resistor is needed.
 
-![Master wiring](docs/wiring-master.jpg)
+![Master wiring](circuit-wiring/771e337c-dad3-4f79-918e-43dadacd6d7e.jpg)
 
 ### Slave 1 (ESP32 classic)
 
